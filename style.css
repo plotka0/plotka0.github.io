@@ -117,22 +117,22 @@ footer{
 #parallax1{
     height: 65vh;
     width:100%;
-    background-image:url("../img/obraz6.jpg");background-size:cover;display:table;background-attachment:fixed;
+    background-image:url("obraz6.jpg");background-size:cover;display:table;background-attachment:fixed;
 }
 #parallax2{
     height:75vh;
     width:100%;
-    background-image:url("../img/obraz7.jpg");background-size:cover;display:table;background-attachment:fixed;
+    background-image:url("obraz7.jpg");background-size:cover;display:table;background-attachment:fixed;
 }
 #parallax3{
     height: 85vh;
     width:100%;
-    background-image:url("../img/obraz8.jpg");background-size:cover;display:table;background-attachment:fixed;
+    background-image:url("obraz8.jpg");background-size:cover;display:table;background-attachment:fixed;
 }
 #parallax4{
     height: 95vh;
     width:100%;
-    background-image:url("../img/obraz3.jpg");background-size:cover;display:table;background-attachment:fixed;
+    background-image:url("obraz3.jpg");background-size:cover;display:table;background-attachment:fixed;
 
 }
 .efekty{
